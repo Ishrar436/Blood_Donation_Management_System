@@ -1,0 +1,19 @@
+@model BloodDonationManagementSystem.Models.Donor
+@{
+    ViewData["Title"] = "Donor Details";
+}
+
+<h2>Donor Details</h2>
+<dl>
+    <dt>Donor ID</dt><dd>@Model.DonorId</dd>
+    <dt>Full Name</dt><dd>@Model.FullName</dd>
+    <dt>Blood Group</dt><dd>@Model.BloodGroup</dd>
+    <dt>Contact No</dt><dd>@Model.ContactNo</dd>
+    <dt>City</dt><dd>@Model.City</dd>
+    <dt>Last Donation Date</dt>
+    <dd>@(Model.LastDonationDate?.ToString("dd MMM yyyy") ?? "Not donated")</dd>
+</dl>
+<p>
+    <a href="@Url.Action("Edit", "Donors", new { id = Model.DonorId })">Edit</a> |
+    <a href="@Url.Action("Index", "Donors")">Back to List</a>
+</p>
