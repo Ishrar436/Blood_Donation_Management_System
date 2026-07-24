@@ -1,0 +1,86 @@
+﻿@model List<BloodDonationManagementSystem.EF.Tables.Donor>
+
+@{
+    ViewData["Title"] = "Donors";
+}
+
+<h2>Donor List</h2>
+
+
+
+
+@if (Model.Count != 0)
+{
+    <table class="table table-bordered">
+        <tr>
+            <th>Donor ID</th>
+            <th>Full Name</th>
+            <th>Blood Group</th>
+            <th>Contact Number</th>
+            <th>City</th>
+            <th>Last Donation Date</th>
+            <th>Actions</th>
+                
+        </tr>
+
+        @foreach (var donor in Model)
+        {
+            <tr>
+                <td>@donor.DonorId</td>
+                <td>@donor.FullName</td>
+                <td>@donor.BloodGroup</td>
+                <td>@donor.ContactNo</td>
+                <td>@donor.City</td>
+
+                <td>
+                    @if (donor.LastDonationDate.HasValue)
+                    {
+                      @donor.LastDonationDate.Value.ToString("MMMM dd, yyyy")
+                        }
+                    else
+                    {
+                        <span>Not available</span>
+                    }
+                </td>
+
+                <td>
+                    <a href="/Donor/Details/@donor.DonorId" class="btn btn-info">Details</a>
+
+                    <a href="/Donor/Edit/@donor.DonorId" class="btn btn-primary">Edit</a>
+
+                    <a href="/Donor/Delete/@donor.DonorId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+        
+    </table>
+}
+else
+{
+    <h4>No donor data found</h4>
+}
+<br />
+
+<h3>Create a new Donor</h3>
+<a href="/Donor/Create" class="btn btn-info">Create</a>
+
+<br />
+
+<h3>LINQ Query Features</h3>
+
+<br />
+<a href="/Donor/FilterByBloodGroup" class="btn btn-primary"> Filter by Blood Group </a>
+
+<br />
+
+<a href="/Donor/SortedByLastDonation" class="btn btn-info">  Sort by Last Donation Date </a>
+
+<br />
+
+<a href="/Donor/DonationCounts" class="btn btn-warning"> Show Donation Counts </a>
+
+<br />
+
+<a href="/Donor/TotalBloodVolume" class="btn btn-success"> Show Total Blood Volume </a>
+
+   

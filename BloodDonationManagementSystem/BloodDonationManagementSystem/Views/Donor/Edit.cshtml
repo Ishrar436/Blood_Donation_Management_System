@@ -1,0 +1,67 @@
+﻿@model BloodDonationManagementSystem.EF.Tables.Donor
+
+@{
+    ViewData["Title"] = "Edit Donor";
+}
+
+<h2>Edit Donor</h2>
+
+
+
+<form action="" method="post">
+
+    @Html.ValidationSummary()
+    
+    <div>
+        <label for="DonorID">Donor Id</label>
+        <input type="hidden" name="DonorId" value="@Model.DonorId" />
+    </div>
+    
+
+    <div>
+        <label for="FullName">Full Name</label>
+
+        <input type="text" name="FullName" id="FullName" value="@Model.FullName" class="form-control" />
+
+        @Html.ValidationMessage("FullName")
+    </div>
+
+    <br />
+
+    <div>
+        <label for="BloodGroup">Blood Group</label>
+
+        <input type="text" name="BloodGroup" id="BloodGroup" value="@Model.BloodGroup" class="form-control" />
+
+        @Html.ValidationMessage("BloodGroup")
+    </div>
+
+    <br />
+
+    <div>
+        <label for="ContactNo">Contact Number</label>
+
+        <input type="text" name="ContactNo" id="ContactNo" value="@Model.ContactNo" class="form-control" />
+
+        @Html.ValidationMessage("ContactNo")
+    </div>
+
+    <br />
+
+    <div>
+        <label for="City">City</label>
+
+        <input type="text" name="City" id="City" value="@Model.City" class="form-control" />
+
+        @Html.ValidationMessage("City")
+    </div>
+
+    <br />
+
+    <input type="submit" value="Update"  class="btn btn-success" />
+    <br />
+
+    <h4>Back To Donors List </h4>
+
+    <a href="/Donor/Index"  class="btn btn-secondary">Back</a>
+</form>

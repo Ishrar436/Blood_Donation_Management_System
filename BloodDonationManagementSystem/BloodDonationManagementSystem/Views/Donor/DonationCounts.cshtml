@@ -1,0 +1,41 @@
+﻿@model List<BloodDonationManagementSystem.Models.DonorDonationCount>
+
+@{
+    ViewData["Title"] = "Donation Counts";
+}
+
+<h2>
+    Total Donations by Each Donor
+</h2>
+
+@if (Model.Count != 0)
+{
+    <table class="table table-bordered">
+
+        <tr>
+            <th>Donor ID</th>
+            <th>Full Name</th>
+            <th>Blood Group</th>
+            <th>Total Donations</th>
+        </tr>
+
+        @foreach (var donor in Model)
+        {
+            <tr>
+                <td>@donor.DonorId</td>
+                <td>@donor.FullName</td>
+                <td>@donor.BloodGroup</td>
+                <td>@donor.TotalDonations</td>
+            </tr>
+        }
+        
+    </table>
+}
+else
+{
+    <h4>No donor data found.</h4>
+}
+
+<br />
+
+<a href="/Donor/Index" class="btn btn-secondary"> Back to Donor List </a>

@@ -1,0 +1,70 @@
+﻿@model BloodDonationManagementSystem.EF.Tables.Donor
+
+@{
+    ViewData["Title"] = "Create Donor";
+}
+
+<h2>Create Donor</h2>
+
+
+
+<form action="" method="post">
+
+    @Html.ValidationSummary()
+
+    <div>
+        <label for="FullName">Full Name</label>
+
+        <input type="text" name="FullName" id="FullName" class="form-control" />
+
+        @Html.ValidationMessage("FullName")
+    </div>
+
+    <br />
+
+    <div>
+        <label for="BloodGroup">Blood Group</label>
+
+        <input type="text" name="BloodGroup" id="BloodGroup" placeholder="Example: A+" class="form-control" />
+
+        @Html.ValidationMessage("BloodGroup")
+    </div>
+
+    <br />
+
+    <div>
+        <label for="ContactNo">Contact Number</label>
+
+        <input type="text" name="ContactNo" id="ContactNo" placeholder="Example: 01712345678" class="form-control" />
+
+        @Html.ValidationMessage("ContactNo")
+    </div>
+
+    <br />
+
+    <div>
+        <label for="City">City</label>
+
+        <input type="text" name="City" id="City" class="form-control" />
+
+        @Html.ValidationMessage("City")
+    </div>
+
+    <br />
+
+    <div>
+        <label for="LastDonationDate">
+            Last Donation Date
+        </label>
+
+        <input type="date"  name="LastDonationDate" id="LastDonationDate" class="form-control" />
+
+        @Html.ValidationMessage("LastDonationDate")
+    </div>
+
+    <br />
+
+    <input type="submit"  value="Create"  class="btn btn-success" />
+
+    <a href="/Donor/Index" class="btn btn-secondary">Back</a>
+</form>

@@ -1,12 +1,275 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\lectures\\.net\\mid\\lab\\blooddonationmanagementsystem\\blooddonationmanagementsystem\\views\\donor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|solutionrelative:blooddonationmanagementsystem\\views\\donor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\lectures\\.net\\mid\\lab\\blooddonationmanagementsystem\\blooddonationmanagementsystem\\controllers\\donorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|solutionrelative:blooddonationmanagementsystem\\controllers\\donorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\lectures\\.net\\mid\\lab\\blooddonationmanagementsystem\\blooddonationmanagementsystem\\models\\donordonationcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|solutionrelative:blooddonationmanagementsystem\\models\\donordonationcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\lectures\\.net\\mid\\lab\\blooddonationmanagementsystem\\blooddonationmanagementsystem\\views\\donor\\filterbybloodgroup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|solutionrelative:blooddonationmanagementsystem\\views\\donor\\filterbybloodgroup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\lectures\\.net\\mid\\lab\\blooddonationmanagementsystem\\blooddonationmanagementsystem\\views\\donor\\sortedbylastdonation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|solutionrelative:blooddonationmanagementsystem\\views\\donor\\sortedbylastdonation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\lectures\\.net\\mid\\lab\\blooddonationmanagementsystem\\blooddonationmanagementsystem\\views\\donor\\donationcounts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|solutionrelative:blooddonationmanagementsystem\\views\\donor\\donationcounts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\lectures\\.net\\mid\\lab\\blooddonationmanagementsystem\\blooddonationmanagementsystem\\views\\donor\\totalbloodvolume.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|solutionrelative:blooddonationmanagementsystem\\views\\donor\\totalbloodvolume.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\lectures\\.net\\mid\\lab\\blooddonationmanagementsystem\\blooddonationmanagementsystem\\views\\donor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|solutionrelative:blooddonationmanagementsystem\\views\\donor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\lectures\\.net\\mid\\lab\\blooddonationmanagementsystem\\blooddonationmanagementsystem\\views\\donor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|solutionrelative:blooddonationmanagementsystem\\views\\donor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\lectures\\.net\\mid\\lab\\blooddonationmanagementsystem\\blooddonationmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|solutionrelative:blooddonationmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\lectures\\.net\\mid\\lab\\blooddonationmanagementsystem\\blooddonationmanagementsystem\\views\\donor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|solutionrelative:blooddonationmanagementsystem\\views\\donor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\lectures\\.net\\mid\\lab\\blooddonationmanagementsystem\\blooddonationmanagementsystem\\views\\donor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|solutionrelative:blooddonationmanagementsystem\\views\\donor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\lectures\\.net\\mid\\lab\\blooddonationmanagementsystem\\blooddonationmanagementsystem\\ef\\tables\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|solutionrelative:blooddonationmanagementsystem\\ef\\tables\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\lectures\\.net\\mid\\lab\\blooddonationmanagementsystem\\blooddonationmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|solutionrelative:blooddonationmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\lectures\\.net\\mid\\lab\\blooddonationmanagementsystem\\blooddonationmanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|solutionrelative:blooddonationmanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SortedByLastDonation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\SortedByLastDonation.cshtml",
+              "RelativeDocumentMoniker": "BloodDonationManagementSystem\\Views\\Donor\\SortedByLastDonation.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\SortedByLastDonation.cshtml",
+              "RelativeToolTip": "BloodDonationManagementSystem\\Views\\Donor\\SortedByLastDonation.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAD8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-24T19:55:31.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilterByBloodGroup.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\FilterByBloodGroup.cshtml",
+              "RelativeDocumentMoniker": "BloodDonationManagementSystem\\Views\\Donor\\FilterByBloodGroup.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\FilterByBloodGroup.cshtml",
+              "RelativeToolTip": "BloodDonationManagementSystem\\Views\\Donor\\FilterByBloodGroup.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-24T19:51:49.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DonorDonationCount.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Models\\DonorDonationCount.cs",
+              "RelativeDocumentMoniker": "BloodDonationManagementSystem\\Models\\DonorDonationCount.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Models\\DonorDonationCount.cs",
+              "RelativeToolTip": "BloodDonationManagementSystem\\Models\\DonorDonationCount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T19:42:10.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BloodDonationManagementSystem\\Views\\Donor\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\Edit.cshtml",
+              "RelativeToolTip": "BloodDonationManagementSystem\\Views\\Donor\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-24T18:28:27.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DonorController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Controllers\\DonorController.cs",
+              "RelativeDocumentMoniker": "BloodDonationManagementSystem\\Controllers\\DonorController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Controllers\\DonorController.cs",
+              "RelativeToolTip": "BloodDonationManagementSystem\\Controllers\\DonorController.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAuwMoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T18:06:01.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\Index.cshtml",
+              "RelativeDocumentMoniker": "BloodDonationManagementSystem\\Views\\Donor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\Index.cshtml",
+              "RelativeToolTip": "BloodDonationManagementSystem\\Views\\Donor\\Index.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAFEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-24T18:12:31.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DonationCounts.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\DonationCounts.cshtml",
+              "RelativeDocumentMoniker": "BloodDonationManagementSystem\\Views\\Donor\\DonationCounts.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\DonationCounts.cshtml",
+              "RelativeToolTip": "BloodDonationManagementSystem\\Views\\Donor\\DonationCounts.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-24T19:58:18.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TotalBloodVolume.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\TotalBloodVolume.cshtml",
+              "RelativeDocumentMoniker": "BloodDonationManagementSystem\\Views\\Donor\\TotalBloodVolume.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\TotalBloodVolume.cshtml",
+              "RelativeToolTip": "BloodDonationManagementSystem\\Views\\Donor\\TotalBloodVolume.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-24T19:59:47.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\Details.cshtml",
+              "RelativeDocumentMoniker": "BloodDonationManagementSystem\\Views\\Donor\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\Details.cshtml",
+              "RelativeToolTip": "BloodDonationManagementSystem\\Views\\Donor\\Details.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-24T18:24:59.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\Create.cshtml",
+              "RelativeDocumentMoniker": "BloodDonationManagementSystem\\Views\\Donor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\Create.cshtml",
+              "RelativeToolTip": "BloodDonationManagementSystem\\Views\\Donor\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-24T18:19:22.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "BloodDonationManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Program.cs",
+              "RelativeToolTip": "BloodDonationManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T16:03:29.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BloodDonationManagementSystem\\Views\\Donor\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\Delete.cshtml",
+              "RelativeToolTip": "BloodDonationManagementSystem\\Views\\Donor\\Delete.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-24T18:32:40.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\EF\\Tables\\Donor.cs",
+              "RelativeDocumentMoniker": "BloodDonationManagementSystem\\EF\\Tables\\Donor.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\EF\\Tables\\Donor.cs",
+              "RelativeToolTip": "BloodDonationManagementSystem\\EF\\Tables\\Donor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T18:02:36.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "BloodDonationManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\appsettings.json",
+              "RelativeToolTip": "BloodDonationManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-23T16:02:41.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BloodDonationManagementSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Lectures\\.Net\\Mid\\Lab\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BloodDonationManagementSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T15:36:55.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

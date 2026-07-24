@@ -1,0 +1,35 @@
+﻿@model int
+
+@{
+    ViewData["Title"] = "Total Blood Volume";
+}
+
+<h2>Total Blood Volume Collected</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Total Volume</th>
+
+        <td>
+            <strong>@Model mL</strong>
+        </td>
+    </tr>
+</table>
+
+@if (Model == 0)
+{
+    <p>
+        No donation volume has been recorded yet.
+    </p>
+}
+else
+{
+    <p>
+        A total of @Model millilitres of blood
+        has been collected across all donations.
+    </p>
+}
+
+<br />
+
+<a href="/Donor/Index" class="btn btn-secondary"> Back to Donor List </a>

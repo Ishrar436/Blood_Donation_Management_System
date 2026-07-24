@@ -1,0 +1,66 @@
+﻿@model List<BloodDonationManagementSystem.EF.Tables.Donor>
+
+@{
+    ViewData["Title"] = "Sorted Donors";
+}
+
+<h2>
+    Donors Sorted by Last Donation Date
+</h2>
+
+<p>
+    Most recent donation date appears first.
+</p>
+
+@if (Model.Count != 0)
+{
+    <table class="table table-bordered">
+
+        <tr>
+            <th>Position</th>
+            <th>Donor ID</th>
+            <th>Full Name</th>
+            <th>Blood Group</th>
+            <th>Contact Number</th>
+            <th>City</th>
+            <th>Last Donation Date</th>
+        </tr>
+        @{
+            int position = 1;
+        }
+
+        @foreach (var donor in Model)
+        {
+            <tr>
+                <td>@position</td>
+                <td>@donor.DonorId</td>
+                <td>@donor.FullName</td>
+                <td>@donor.BloodGroup</td>
+                <td>@donor.ContactNo</td>
+                <td>@donor.City</td>
+
+                <td>
+                    @if (donor.LastDonationDate.HasValue)
+                    {
+                        @donor.LastDonationDate.Value.ToString("MMMM dd, yyyy")
+                    }
+                    else
+                    {
+                        <span>No donation recorded</span>
+                    }
+                </td>
+            </tr>
+
+            position++;
+        }
+
+    </table>
+}
+else
+{
+    <h4>No donor data found.</h4>
+}
+
+<br />
+
+<a href="/Donor/Index" class="btn btn-secondary"> Back to Donor List </a>

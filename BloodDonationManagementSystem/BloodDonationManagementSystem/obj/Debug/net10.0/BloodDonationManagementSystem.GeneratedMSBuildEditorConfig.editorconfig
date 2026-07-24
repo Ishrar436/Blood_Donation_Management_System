@@ -1,15 +1,23 @@
 is_global = true
 build_property.TargetFramework = net10.0
-build_property.TargetFrameworkIdentifier = .NETCoreApp
-build_property.TargetFrameworkVersion = v10.0
+build_property.TargetFramework = net10.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
-build_property.EntryPointFilePath = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.EntryPointFilePath = 
 build_property.RootNamespace = BloodDonationManagementSystem
 build_property.RootNamespace = BloodDonationManagementSystem
 build_property.ProjectDir = C:\Users\Hp\OneDrive\Desktop\Lectures\.Net\Mid\Lab\BloodDonationManagementSystem\BloodDonationManagementSystem\
@@ -22,6 +30,42 @@ build_property.MSBuildProjectDirectory = C:\Users\Hp\OneDrive\Desktop\Lectures\.
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Hp/OneDrive/Desktop/Lectures/.Net/Mid/Lab/BloodDonationManagementSystem/BloodDonationManagementSystem/Views/Donor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9ub3JcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/Lectures/.Net/Mid/Lab/BloodDonationManagementSystem/BloodDonationManagementSystem/Views/Donor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9ub3JcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/Lectures/.Net/Mid/Lab/BloodDonationManagementSystem/BloodDonationManagementSystem/Views/Donor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9ub3JcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/Lectures/.Net/Mid/Lab/BloodDonationManagementSystem/BloodDonationManagementSystem/Views/Donor/DonationCounts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9ub3JcRG9uYXRpb25Db3VudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/Lectures/.Net/Mid/Lab/BloodDonationManagementSystem/BloodDonationManagementSystem/Views/Donor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9ub3JcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/Lectures/.Net/Mid/Lab/BloodDonationManagementSystem/BloodDonationManagementSystem/Views/Donor/FilterByBloodGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9ub3JcRmlsdGVyQnlCbG9vZEdyb3VwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/Lectures/.Net/Mid/Lab/BloodDonationManagementSystem/BloodDonationManagementSystem/Views/Donor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9ub3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/Lectures/.Net/Mid/Lab/BloodDonationManagementSystem/BloodDonationManagementSystem/Views/Donor/SortedByLastDonation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9ub3JcU29ydGVkQnlMYXN0RG9uYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/Lectures/.Net/Mid/Lab/BloodDonationManagementSystem/BloodDonationManagementSystem/Views/Donor/TotalBloodVolume.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9ub3JcVG90YWxCbG9vZFZvbHVtZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Hp/OneDrive/Desktop/Lectures/.Net/Mid/Lab/BloodDonationManagementSystem/BloodDonationManagementSystem/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
